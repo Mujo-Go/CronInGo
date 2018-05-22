@@ -1,0 +1,216 @@
+basic fee 19.9
+book 1 service fee 0
+transport fee 10
+book 0 cloth fee 0
+wash 1 cloth fee 3.9
+dump 1 cloth fee 0
+total price: 13.799999999999999 && average price: 13.799999999999999
+**************
+basic fee 19.9
+book 1 service fee 0
+transport fee 10
+book 1 cloth fee 21.9
+wash 0 cloth fee 0
+dump 0 cloth fee 0
+total price: 31.799999999999997 && average price: 31.799999999999997
+**************
+basic fee 19.9
+book 2 service fee 0
+transport fee 10
+book 0 cloth fee 0
+wash 2 clothes fee 7.8
+dump 2 clothes fee 0
+total price: 17.7 && average price: 8.85
+**************
+basic fee 19.9
+book 2 service fee 0
+transport fee 10
+book 1 cloth fee 21.9
+wash 1 cloth fee 3.9
+dump 1 cloth fee 0
+total price: 35.699999999999996 && average price: 17.849999999999998
+**************
+basic fee 19.9
+book 2 service fee 0
+transport fee 10
+book 2 clothes fee 43.8
+wash 0 cloth fee 0
+dump 0 cloth fee 0
+total price: 53.699999999999996 && average price: 26.849999999999998
+**************
+basic fee 19.9
+book 3 service fee 4.9
+transport fee 10
+book 0 cloth fee 0
+wash 3 clothes fee 11.7
+dump 3 clothes fee 0
+total price: 26.499999999999996 && average price: 8.833333333333332
+**************
+basic fee 19.9
+book 3 service fee 4.9
+transport fee 10
+book 1 cloth fee 21.9
+wash 2 clothes fee 7.8
+dump 2 clothes fee 0
+total price: 44.49999999999999 && average price: 14.83333333333333
+**************
+basic fee 19.9
+book 3 service fee 4.9
+transport fee 10
+book 2 clothes fee 43.8
+wash 1 cloth fee 3.9
+dump 1 cloth fee 0
+total price: 62.49999999999999 && average price: 20.833333333333332
+**************
+basic fee 19.9
+book 3 service fee 4.9
+transport fee 10
+book 3 clothes fee 65.69999999999999
+wash 0 cloth fee 0
+dump 0 cloth fee 0
+total price: 80.49999999999999 && average price: 26.83333333333333
+**************
+basic fee 19.9
+book 4 service fee 4.9
+transport fee 10
+book 0 cloth fee 0
+wash 4 clothes fee 15.6
+dump 4 clothes fee 0
+total price: 30.4 && average price: 7.6
+**************
+basic fee 19.9
+book 4 service fee 4.9
+transport fee 10
+book 1 cloth fee 21.9
+wash 3 clothes fee 11.7
+dump 3 clothes fee 0
+total price: 48.39999999999999 && average price: 12.099999999999998
+**************
+basic fee 19.9
+book 4 service fee 4.9
+transport fee 10
+book 2 clothes fee 43.8
+wash 2 clothes fee 7.8
+dump 2 clothes fee 0
+total price: 66.39999999999999 && average price: 16.599999999999998
+**************
+basic fee 19.9
+book 4 service fee 4.9
+transport fee 10
+book 3 clothes fee 65.69999999999999
+wash 1 cloth fee 3.9
+dump 1 cloth fee 0
+total price: 84.39999999999999 && average price: 21.099999999999998
+**************
+basic fee 19.9
+book 4 service fee 4.9
+transport fee 10
+book 4 clothes fee 87.6
+wash 0 cloth fee 0
+dump 0 cloth fee 0
+total price: 102.39999999999999 && average price: 25.599999999999998
+**************
+basic fee 19.9
+book 5 service fee 5.9
+transport fee 10
+book 0 cloth fee 0
+wash 5 clothes fee 19.5
+dump 5 clothes fee 0
+total price: 35.3 && average price: 7.06
+**************
+basic fee 19.9
+book 5 service fee 5.9
+transport fee 10
+book 1 cloth fee 21.9
+wash 4 clothes fee 15.6
+dump 4 clothes fee 0
+total price: 53.3 && average price: 10.66
+**************
+basic fee 19.9
+book 5 service fee 5.9
+transport fee 10
+book 2 clothes fee 43.8
+wash 3 clothes fee 11.7
+dump 3 clothes fee 0
+total price: 71.3 && average price: 14.26
+**************
+basic fee 19.9
+book 5 service fee 5.9
+transport fee 10
+book 3 clothes fee 65.69999999999999
+wash 2 clothes fee 7.8
+dump 2 clothes fee 0
+total price: 89.29999999999998 && average price: 17.859999999999996
+**************
+basic fee 19.9
+book 5 service fee 5.9
+transport fee 10
+book 4 clothes fee 87.6
+wash 1 cloth fee 3.9
+dump 1 cloth fee 0
+total price: 107.3 && average price: 21.46
+**************
+basic fee 19.9
+book 5 service fee 5.9
+transport fee 10
+book 5 clothes fee 109.5
+wash 0 cloth fee 0
+dump 0 cloth fee 0
+total price: 125.3 && average price: 25.06
+**************
+basic fee 19.9
+book 6 service fee 5.9
+transport fee 10
+book 0 cloth fee 0
+wash 6 clothes fee 23.4
+dump 6 clothes fee 0
+total price: 39.199999999999996 && average price: 6.533333333333332
+**************
+basic fee 19.9
+book 6 service fee 5.9
+transport fee 10
+book 1 cloth fee 21.9
+wash 5 clothes fee 19.5
+dump 5 clothes fee 0
+total price: 57.199999999999996 && average price: 9.533333333333333
+**************
+basic fee 19.9
+book 6 service fee 5.9
+transport fee 10
+book 2 clothes fee 43.8
+wash 4 clothes fee 15.6
+dump 4 clothes fee 0
+total price: 75.19999999999999 && average price: 12.533333333333331
+**************
+basic fee 19.9
+book 6 service fee 5.9
+transport fee 10
+book 3 clothes fee 65.69999999999999
+wash 3 clothes fee 11.7
+dump 3 clothes fee 0
+total price: 93.19999999999999 && average price: 15.533333333333331
+**************
+basic fee 19.9
+book 6 service fee 5.9
+transport fee 10
+book 4 clothes fee 87.6
+wash 2 clothes fee 7.8
+dump 2 clothes fee 0
+total price: 111.19999999999999 && average price: 18.53333333333333
+**************
+basic fee 19.9
+book 6 service fee 5.9
+transport fee 10
+book 5 clothes fee 109.5
+wash 1 cloth fee 3.9
+dump 1 cloth fee 0
+total price: 129.2 && average price: 21.53333333333333
+**************
+basic fee 19.9
+book 6 service fee 5.9
+transport fee 10
+book 6 clothes fee 131.39999999999998
+wash 0 cloth fee 0
+dump 0 cloth fee 0
+total price: 147.2 && average price: 24.53333333333333
+**************
