@@ -8,9 +8,9 @@ total price: 23.799999999999997
 basic fee 19.9
 book 1 service fee 0
 transport fee 0
-book 1 cloth fee 21.9
+book 1 cloth fee 24.9
 wash 0 cloth fee 0
-total price: 41.8 && average price: 41.8
+total price: 44.8 && average price: 44.8
 **************
 basic fee 19.9
 book 2 service fee 0
@@ -22,16 +22,16 @@ total price: 27.7
 basic fee 19.9
 book 2 service fee 0
 transport fee 0
-book 1 cloth fee 21.9
+book 1 cloth fee 24.9
 wash 1 cloth fee 3.9
-total price: 45.699999999999996 && average price: 45.699999999999996
+total price: 48.699999999999996 && average price: 48.699999999999996
 **************
 basic fee 19.9
 book 2 service fee 0
 transport fee 0
-book 2 clothes fee 43.8
+book 2 clothes fee 49.8
 wash 0 cloth fee 0
-total price: 63.699999999999996 && average price: 31.849999999999998
+total price: 69.69999999999999 && average price: 34.849999999999994
 **************
 basic fee 19.9
 book 3 service fee 4.9
@@ -43,23 +43,23 @@ total price: 36.5
 basic fee 19.9
 book 3 service fee 4.9
 transport fee 0
-book 1 cloth fee 21.9
+book 1 cloth fee 24.9
 wash 2 clothes fee 7.8
-total price: 54.49999999999999 && average price: 54.49999999999999
+total price: 57.49999999999999 && average price: 57.49999999999999
 **************
 basic fee 19.9
 book 3 service fee 4.9
 transport fee 0
-book 2 clothes fee 43.8
+book 2 clothes fee 49.8
 wash 1 cloth fee 3.9
-total price: 72.5 && average price: 36.25
+total price: 78.5 && average price: 39.25
 **************
 basic fee 19.9
 book 3 service fee 4.9
 transport fee 0
-book 3 clothes fee 65.69999999999999
+book 3 clothes fee 74.69999999999999
 wash 0 cloth fee 0
-total price: 90.49999999999999 && average price: 30.16666666666666
+total price: 99.49999999999999 && average price: 33.166666666666664
 **************
 basic fee 19.9
 book 4 service fee 4.9
@@ -71,30 +71,30 @@ total price: 40.4
 basic fee 19.9
 book 4 service fee 4.9
 transport fee 0
-book 1 cloth fee 21.9
+book 1 cloth fee 24.9
 wash 3 clothes fee 11.7
-total price: 58.39999999999999 && average price: 58.39999999999999
+total price: 61.39999999999999 && average price: 61.39999999999999
 **************
 basic fee 19.9
 book 4 service fee 4.9
 transport fee 0
-book 2 clothes fee 43.8
+book 2 clothes fee 49.8
 wash 2 clothes fee 7.8
-total price: 76.39999999999999 && average price: 38.199999999999996
+total price: 82.39999999999999 && average price: 41.199999999999996
 **************
 basic fee 19.9
 book 4 service fee 4.9
 transport fee 0
-book 3 clothes fee 65.69999999999999
+book 3 clothes fee 74.69999999999999
 wash 1 cloth fee 3.9
-total price: 94.39999999999999 && average price: 31.466666666666665
+total price: 103.39999999999999 && average price: 34.46666666666666
 **************
 basic fee 19.9
 book 4 service fee 4.9
 transport fee 0
-book 4 clothes fee 87.6
+book 4 clothes fee 99.6
 wash 0 cloth fee 0
-total price: 112.39999999999999 && average price: 28.099999999999998
+total price: 124.39999999999999 && average price: 31.099999999999998
 **************
 basic fee 19.9
 book 5 service fee 5.9
@@ -106,37 +106,37 @@ total price: 45.3
 basic fee 19.9
 book 5 service fee 5.9
 transport fee 0
-book 1 cloth fee 21.9
+book 1 cloth fee 24.9
 wash 4 clothes fee 15.6
-total price: 63.3 && average price: 63.3
+total price: 66.3 && average price: 66.3
 **************
 basic fee 19.9
 book 5 service fee 5.9
 transport fee 0
-book 2 clothes fee 43.8
+book 2 clothes fee 49.8
 wash 3 clothes fee 11.7
-total price: 81.3 && average price: 40.65
+total price: 87.3 && average price: 43.65
 **************
 basic fee 19.9
 book 5 service fee 5.9
 transport fee 0
-book 3 clothes fee 65.69999999999999
+book 3 clothes fee 74.69999999999999
 wash 2 clothes fee 7.8
-total price: 99.29999999999998 && average price: 33.099999999999994
+total price: 108.29999999999998 && average price: 36.099999999999994
 **************
 basic fee 19.9
 book 5 service fee 5.9
 transport fee 0
-book 4 clothes fee 87.6
+book 4 clothes fee 99.6
 wash 1 cloth fee 3.9
-total price: 117.3 && average price: 29.325
+total price: 129.29999999999998 && average price: 32.324999999999996
 **************
 basic fee 19.9
 book 5 service fee 5.9
 transport fee 0
-book 5 clothes fee 109.5
+book 5 clothes fee 124.5
 wash 0 cloth fee 0
-total price: 135.3 && average price: 27.060000000000002
+total price: 150.3 && average price: 30.060000000000002
 **************
 basic fee 19.9
 book 6 service fee 5.9
@@ -148,42 +148,42 @@ total price: 49.199999999999996
 basic fee 19.9
 book 6 service fee 5.9
 transport fee 0
-book 1 cloth fee 21.9
+book 1 cloth fee 24.9
 wash 5 clothes fee 19.5
-total price: 67.19999999999999 && average price: 67.19999999999999
+total price: 70.19999999999999 && average price: 70.19999999999999
 **************
 basic fee 19.9
 book 6 service fee 5.9
 transport fee 0
-book 2 clothes fee 43.8
+book 2 clothes fee 49.8
 wash 4 clothes fee 15.6
-total price: 85.19999999999999 && average price: 42.599999999999994
+total price: 91.19999999999999 && average price: 45.599999999999994
 **************
 basic fee 19.9
 book 6 service fee 5.9
 transport fee 0
-book 3 clothes fee 65.69999999999999
+book 3 clothes fee 74.69999999999999
 wash 3 clothes fee 11.7
-total price: 103.19999999999999 && average price: 34.4
+total price: 112.19999999999999 && average price: 37.4
 **************
 basic fee 19.9
 book 6 service fee 5.9
 transport fee 0
-book 4 clothes fee 87.6
+book 4 clothes fee 99.6
 wash 2 clothes fee 7.8
-total price: 121.19999999999999 && average price: 30.299999999999997
+total price: 133.2 && average price: 33.3
 **************
 basic fee 19.9
 book 6 service fee 5.9
 transport fee 0
-book 5 clothes fee 109.5
+book 5 clothes fee 124.5
 wash 1 cloth fee 3.9
-total price: 139.20000000000002 && average price: 27.840000000000003
+total price: 154.20000000000002 && average price: 30.840000000000003
 **************
 basic fee 19.9
 book 6 service fee 5.9
 transport fee 0
-book 6 clothes fee 131.39999999999998
+book 6 clothes fee 149.39999999999998
 wash 0 cloth fee 0
-total price: 157.2 && average price: 26.2
+total price: 175.2 && average price: 29.2
 **************
